@@ -287,7 +287,7 @@ Make sure you have the following installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/AmitK241/Chat-App.git
+git clone https://github.com/Ashish200402/Chat-App.git
 cd Chat-App
 ```
 
@@ -502,9 +502,9 @@ MIT License — free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-### Amit Kumar
+### Ashish Gupta
 
-[![GitHub](https://img.shields.io/badge/GitHub-AmitK241-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitK241)
+
 
 *Full-Stack Developer | MERN Stack | Real-Time Systems*
 
@@ -531,6 +531,6 @@ MIT License — free to use, modify, and distribute with attribution.
 
 <br/>
 
-**[🚀 Try the Live Demo](https://chat-app-client-wheat-three.vercel.app/) · [⭐ Star on GitHub](https://github.com/AmitK241/Chat-App) · [🐛 Report a Bug](https://github.com/AmitK241/Chat-App/issues)**
+**[🚀 Try the Live Demo](https://chat-app-client-wheat-three.vercel.app/)
 
 </div>
